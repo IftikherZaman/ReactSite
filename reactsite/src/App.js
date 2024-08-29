@@ -1,6 +1,6 @@
 // File: src/App.js
 
-import './styles/main.css';
+import './styles/style.css';
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
